@@ -1,4 +1,4 @@
-# [FTB Skies](https://feed-the-beast.com/modpack/ftb_skies) By FTB
+# [FTB Skies](https://feed-the-beast.com/modpack/103-ftb_skies) By FTB
 
 <!-- toc -->
 
